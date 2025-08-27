@@ -7,3 +7,4 @@
 - 💬 Ask me about haskell
 - 📫 How to reach me: please don't
 - 😄 Pronouns: he/him
+- ✨ Fun fact: the C++ standard draft's LaTeX source has more words (as counted by the `wc` utility) than the King James Bible.
